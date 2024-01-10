@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.orangeBall {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    border: solid 2px;
+    border-radius: 100%;
+}
+
+.blueBall {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border: solid 2px;
+    border-radius: 100%;
+}
